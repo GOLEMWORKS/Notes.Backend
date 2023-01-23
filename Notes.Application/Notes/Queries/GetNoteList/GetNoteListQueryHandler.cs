@@ -10,5 +10,6 @@ namespace Notes.Application.Notes.Queries.GetNoteList
     public class GetNoteListQueryHandler
         : IRequestHandler<GetNoteListQuery, NoteListVm>
     {
+        //14:28
     }
 }
